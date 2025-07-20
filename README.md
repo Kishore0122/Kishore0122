@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/📚%20Library%20Management%20System-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
   </a>
   <a href="https://github.com/Kishore0122/library">
-    <img src="https://img.shields.io/badge/⚡%20Full%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
+    <img src="https://img.shields.io/badge/⚡%20MERN%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
   </a>
   <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
     <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
@@ -93,35 +93,37 @@
 
 ###
 <div align="left">
-  <a href="https://github.com/Kishore0122/library" >
-    <img src="https://img.shields.io/badge/📚%20Library%20Management%20System-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
+  <a href="https://github.com/Kishore0122/SmartKisan" >
+    <img src="https://img.shields.io/badge/📚%20Smart%20Kisan%20-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
   </a>
-  <a href="https://github.com/Kishore0122/library">
-    <img src="https://img.shields.io/badge/⚡%20Full%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
+  <a href="https://github.com/Kishore0122/SmartKisan">
+    <img src="https://img.shields.io/badge/⚡%20MERN%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
   </a>
-  <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
+  <a href="https://github.com/Kishore0122/SmartKisan" target="_blank">
     <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
   </a>
   <br><br>
-  <p>A modern full-stack library management system built with React, Node.js, and MongoDB. Features include user authentication, book management, borrowing system, and admin dashboard.</p>
+  <p>A modern full-stack Smartkisan Website With AI INtegration Voice comand Feature built with React, Node.js, and MongoDB. Features include user authentication, live prize tracking, crop disease diagnose, text assistant ,voice assistant ,government schems seerch ,document saving.</p>
   <!-- Add more featured projects here as you create them -->
 </div>
-###
+
 <div align="left">
   <a href="https://github.com/Kishore0122/library" >
-    <img src="https://img.shields.io/badge/📚%20Library%20Management%20System-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
+   <a href="https://github.com/Kishore0122/ai-agent" target="_blank">
+    <img src="https://img.shields.io/badge/🤖%20Personal%20AI%20Agent-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=white" />
+  </a>
   </a>
   <a href="https://github.com/Kishore0122/library">
-    <img src="https://img.shields.io/badge/⚡%20Full%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
+    <img src="https://img.shields.io/badge/⚡%20Python%20-339933?style=for-the-badge&logo=python&logoColor=white&labelColor=339933&color=white" />
   </a>
   <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
-    <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
+    <img src="https://img.shields.io/badge/%20LLM-47A248?style=for-the-badge&logo=python&logoColor=white&labelColor=47A248&color=white" />
   </a>
   <br><br>
-  <p>A modern full-stack library management system built with React, Node.js, and MongoDB. Features include user authentication, book management, borrowing system, and admin dashboard.</p>
+  <p>A modern Ai agent which can access your system and intracts with you Features include voice assistant,text assistant,file open,file serch,file delet,code writing in 10 languages,problem solving.</p>
   <!-- Add more featured projects here as you create them -->
 </div>
-###
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -189,15 +191,11 @@
 
 ###
 <h2 align="center">📈 Development Analytics</h2>
-###
+
 
 <h4 align="center">
   <a href="https://github.com/Kishore0122?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-###
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
