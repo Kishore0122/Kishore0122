@@ -39,12 +39,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c language logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
-
-
-
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" />
 </div>
 
 ###
@@ -66,9 +65,22 @@
   <a href="https://www.facebook.com/profile.php?id=100057444433769" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
-  <a href="mailto:kishorepanuganti278@@gmail.com" target="_blank">
+  <a href="mailto:kishorepanuganti278@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+</div>
+
+###
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+###
+
+<div align="left">
+  <a href="https://github.com/Kishore0122/library" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kishore0122&repo=library&theme=dracula&hide_border=false" />
+  </a>
+  <!-- Add more featured projects here as you create them -->
 </div>
 
 ###
@@ -78,7 +90,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-stats-alpha.vercel.app/api?username=Kishore0122&cc=282a36&tc=edede7&ic=ff6e96&bc=dddbdb" alt="Ambavaram's Stats" />
+      <img align="left" width=390 src="https://github-stats-alpha.vercel.app/api?username=Kishore0122&cc=282a36&tc=edede7&ic=ff6e96&bc=dddbdb" alt="Kishore's Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishore0122&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
@@ -97,9 +109,6 @@
 
 <hr>
 
-
-</div>
-
 ###
 
 <h2 align="center">🏆 Trophies 🏆</h2>
@@ -109,11 +118,61 @@
 
 ###
 
+<h2 align="center">📊 Contribution Graph</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore0122&theme=dracula&hide_border=false" />
+</div>
+
+###
+
+<h2 align="center">⚡ My Contribution ⚡</h2>
+
+###
+
+<div align="center">
+  <img src="https://github.com/Kishore0122/Kishore0122/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+</div>
+
+###
+
+<h2 align="center">🎯 Current Goals</h2>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Goal-Master%20Full%20Stack%20Development-blue?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Goal-Complete%20DSA%20Course-green?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Goal-Build%20More%20Projects-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Goal-Contribute%20to%20Open%20Source-purple?style=for-the-badge&logo=opensource" />
+</div>
+
+###
+
+<h2 align="center">📈 Weekly Development Breakdown</h2>
+
+###
+
+<div align="center">
+  <img src="https://wakatime.com/share/@Kishore0122/your-wakatime-stats.svg" alt="Wakatime Stats" />
+</div>
+
+###
+
 <h4 align="center">
   <a href="https://github.com/Kishore0122?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+###
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
-## ⚡MY Contribution ⚡
-![snake gif](https://github.com/Kishore0122/Kishore0122/blob/output/github-contribution-grid-snake.gif)
+---
+
+<div align="center">
+  <sub>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on any projects. 🚀</sub>
+</div> 
