@@ -107,6 +107,21 @@
   <!-- Add more featured projects here as you create them -->
 </div>
 ###
+<div align="left">
+  <a href="https://github.com/Kishore0122/library" >
+    <img src="https://img.shields.io/badge/📚%20Library%20Management%20System-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
+  </a>
+  <a href="https://github.com/Kishore0122/library">
+    <img src="https://img.shields.io/badge/⚡%20Full%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
+  </a>
+  <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
+    <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
+  </a>
+  <br><br>
+  <p>A modern full-stack library management system built with React, Node.js, and MongoDB. Features include user authentication, book management, borrowing system, and admin dashboard.</p>
+  <!-- Add more featured projects here as you create them -->
+</div>
+###
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -174,13 +189,6 @@
 
 ###
 <h2 align="center">📈 Development Analytics</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kishore0122&theme=dracula&hide_border=false&layout=compact" alt="Wakatime Stats" />
-</div>
-
 ###
 
 <h4 align="center">
@@ -189,7 +197,11 @@
 
 ###
 
----
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
 
 <div align="center">
   <sub>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on any projects. 🚀</sub>
