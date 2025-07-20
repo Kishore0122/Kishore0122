@@ -83,9 +83,6 @@
   <a href="https://github.com/Kishore0122/library" target="_blank">
     <img src="https://img.shields.io/badge/⚡%20Full%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
   </a>
-  <a href="https://github.com/Kishore0122/library" target="_blank">
-    <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
-  </a>
   <br><br>
   <a href="https://github.com/Kishore0122/library" target="_blank">
     <strong>📚 Library Management System</strong>
