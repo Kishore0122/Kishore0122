@@ -78,10 +78,16 @@
 
 <div align="left">
   <a href="https://github.com/Kishore0122/library" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kishore0122&repo=library&theme=dracula&hide_border=false" />
+    <img src="https://img.shields.io/badge/Library%20Management%20System-React%20%7C%20Node.js%20%7C%20MongoDB-blue?style=for-the-badge&logo=github" />
   </a>
+  <br><br>
+  <a href="https://github.com/Kishore0122/library" target="_blank">
+    <strong>📚 Library Management System</strong>
+  </a>
+  <p>A modern full-stack library management system built with React, Node.js, and MongoDB. Features include user authentication, book management, borrowing system, and admin dashboard.</p>
   <!-- Add more featured projects here as you create them -->
 </div>
+
 
 ###
 
