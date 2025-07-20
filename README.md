@@ -41,15 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
-<img src="<svg viewBox="0 0 48 28" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-8 w-auto">
-  <path
-    fill-rule="evenodd"
-    clip-rule="evenodd"
-    d="M14.5 0C8.1 0 4.3 3.2 3 9.6C5.2 6.4 7.9 5 11.1 5C14 5 16.2 6.5 17.7 9.6C19.1 12.6 21.2 14 24 14C28.2 14 31.2 11 33 5.2C30.8 8.4 28.1 10 24.9 10C22 10 19.8 8.5 18.3 5.4C16.9 2.4 14.8 0 14.5 0ZM3 18.4C4.3 12 8.1 8.8 14.5 8.8C16.8 8.8 18.6 9.4 19.9 10.6C21.3 11.8 22.4 13.5 23.3 15.6C24.7 18.6 26.8 20 29.6 20C33.8 20 36.8 17 38.6 11.2C36.4 14.4 33.7 16 30.5 16C27.6 16 25.4 14.5 23.9 11.4C22.5 8.4 20.4 6 20.1 6C13.7 6 9.9 9.2 8.6 15.6C10.8 12.4 13.5 11 16.7 11C19.6 11 21.8 12.5 23.3 15.6C24.7 18.6 26.8 20 29.6 20C33.8 20 36.8 17 38.6 11.2C36.4 14.4 33.7 16 30.5 16C27.6 16 25.4 14.5 23.9 11.4C22.5 8.4 20.4 6 20.1 6C13.7 6 9.9 9.2 8.6 15.6C10.8 12.4 13.5 11 16.7 11C19.6 11 21.8 12.5 23.3 15.6Z"
-    fill="#38BDF8"
-  />
-</svg>
-" height="30" width="42" alt="tailwindcss logo" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" width="42" alt="tailwindcss logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" />
 </div>
