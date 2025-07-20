@@ -77,10 +77,10 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/Kishore0122/library" target="_blank">
+  <a href="https://github.com/Kishore0122/library" >
     <img src="https://img.shields.io/badge/📚%20Library%20Management%20System-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
   </a>
-  <a href="https://github.com/Kishore0122/library" target="_blank">
+  <a href="https://github.com/Kishore0122/library">
     <img src="https://img.shields.io/badge/⚡%20Full%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
   </a>
   <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
