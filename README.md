@@ -159,13 +159,12 @@
 </div>
 
 ###
-
-<h2 align="center">📈 Weekly Development Breakdown</h2>
+<h2 align="center">📈 Development Analytics</h2>
 
 ###
 
 <div align="center">
-  <img src="https://wakatime.com/share/@Kishore0122/your-wakatime-stats.svg" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kishore0122&theme=dracula&hide_border=false&layout=compact" alt="Wakatime Stats" />
 </div>
 
 ###
