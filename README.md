@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
   </a>
   <br><br>
-  <p>A modern full-stack Skill sharing system system built with React, Node.js, and MongoDB. Features include user authentication, Project colabration, Live Chatting, Challanges posting.</p>
+  <p>A modern full-stack Skill sharing system system built with React, Node.js, and MongoDB. Features include user authentication, Project colabration, Live Chatting, and Challanges posting.</p>
   <!-- Add more featured projects here as you create them -->
 </div>
 
