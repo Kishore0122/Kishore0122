@@ -75,6 +75,20 @@
 <h2 align="left">🚀 Featured Projects</h2>
 
 ###
+<div align="left">
+  <a href="https://github.com/Kishore0122/Skillsync" >
+    <img src="https://img.shields.io/badge/📚%20Skill%20Sync-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
+  </a>
+  <a href="https://github.com/Kishore0122/library">
+    <img src="https://img.shields.io/badge/⚡%20MERN%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
+  </a>
+  <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
+    <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
+  </a>
+  <br><br>
+  <p>A modern full-stack Skill sharing system system built with React, Node.js, and MongoDB. Features include user authentication,Project colabration,Live Chatting,Challanges posting.</p>
+  <!-- Add more featured projects here as you create them -->
+</div>
 
 <div align="left">
   <a href="https://github.com/Kishore0122/library" >
