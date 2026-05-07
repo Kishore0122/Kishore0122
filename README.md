@@ -166,19 +166,19 @@ const kishore = {
 
 <div align="center">
 
-<a href="https://github.com/Kishore0122" target='blank'>
+<a href="https://github.com/Kishore0122" target="blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/panuganti-bala-kishore-0424b5325/" target='blank'>
+<a href="https://www.linkedin.com/in/panuganti-bala-kishore-0424b5325/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://kishore.is-a.dev/" target='blank'>
+<a href="https://kishore.is-a.dev/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="mailto:kishorepanuganti278@gmail.com" target='blank'>
+<a href="mailto:kishorepanuganti278@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
