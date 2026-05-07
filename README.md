@@ -361,19 +361,16 @@ A customizable AI assistant inspired by JARVIS capable of voice interaction, aut
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kishore0122&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore0122&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Kishore0122&theme=tokyonight&hide_border=true"/>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishore0122&theme=tokyonight"/>
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=Kishore0122&theme=tokyonight&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
