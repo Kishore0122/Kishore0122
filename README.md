@@ -90,11 +90,6 @@ const kishore = {
 <b>MongoDB</b><br>
 <sub>NoSQL Database</sub>
 </td>
-
-</tr>
-
-<tr>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mysql" width="60"/><br><br>
 <b>MySQL</b><br>
@@ -108,24 +103,60 @@ const kishore = {
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="60"/><br><br>
-<b>Java</b><br>
+<img src="https://skillicons.dev/icons?i=javascript" width="60"/><br><br>
+<b>JavaScript</b><br>
 <sub>DSA & OOP</sub>
 </td>
+</tr>
 
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="60"/><br><br>
+<b>HTML</b><br>
+<sub>Frontend UI</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="60"/><br><br>
+<b>CSS</b><br>
+<sub>Modern Styling</sub>
+</td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br><br>
 <b>Tailwind CSS</b><br>
 <sub>Modern Styling</sub>
 </td>
 
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="60"/><br><br>
+<b>Git</b><br>
+<sub>Version Control</sub>
+</td>
+
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br><br>
+<b>GitHub</b><br>
+<sub>Code Pushing</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="60"/><br><br>
+<b>Postman</b><br>
+<sub>API Testing</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/><br><br>
+<b>VS COde</b><br>
+<sub>Code Editor</sub>
+</td>
 </tr>
 
 </table>
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=git,github,html,css,js,c,cpp,vscode,postman,firebase" />
 
 </div>
 
