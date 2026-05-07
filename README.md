@@ -63,7 +63,6 @@ const kishore = {
 # 🚀 Tech Arsenal
 
 <div align="center">
-
 <table>
 <tr>
 
