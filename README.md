@@ -1,220 +1,428 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Kishore0122&style=flat-square">
+<img align="right" src="https://komarev.com/ghpvc/?username=Kishore0122&style=flat-square&color=blue" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;Hi+welcome+to+myprofile!;+I'm+Panuganti+Bala+Kishore!;&center=true&size=20">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;Welcome+to+my+Profile!;I'm+Kishore;&center=true&size=30&color=58A6FF">
 </h1>
 
-###
+<h3 align="center">
+💻 Full Stack Developer • 🚀 MERN Stack Enthusiast • 🧠 DSA Learner
+</h3>
 
-<p align="left">Hey there! Welcome to my GitHub profile. I'm Panuganti Bala Kishore 👋, a passionate coder and a student at Saveetha School of Engineering 🎓 pursuing a BSc in Computer Science 💻 with a focus on Full stack web development and DSA.</p>
+<div align="center">
 
-###
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-System%20Design-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building-AI%20Projects-purple?style=for-the-badge"/>
 
-<h2 align="left">About Me ✨</h2>
-
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/7m4wl6.gif" />
-
-###
-
-<h5 align="left">🔭 Currently working on real time full stack web applications.<br>👯 Looking to collaborate on Full stack Web development projects.<br>🤝 Need help with advanced JSX topics.<br>🌱 Learning Java and DSA.<br>💬 Ask me about Web Development or DSA.<br>⚡ Fun fact: I love solving puzzles my self rather than with AI! ☕💻</h5>
-
-###
-
-<h2 align="left">Interest and Skills 🔥</h2>
-
-###
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="sql logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c language logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" width="42" alt="tailwindcss logo" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" /> -->
 </div>
 
-###
+---
 
-<h2 align="left">Let's Connect! 🌐</h2>
+# 👨‍💻 About Me
 
-###
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<div align="left">
-  <a href="https://github.com/Kishore0122" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/panuganti-bala-kishore-0424b5325/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://kishore.is-a.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100057444433769" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-  <a href="mailto:kishorepanuganti278@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
+```js
+const kishore = {
+    education: "BSc Computer Science @ Saveetha School of Engineering",
 
-###
+    currentFocus: [
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Open Source",
+        "Problem Solving"
+    ],
 
-<h2 align="left">🚀 Featured Projects</h2>
+    currentlyLearning: [
+        "DSA",
+        "Advanced React",
+        "System Design"
+    ],
 
-###
-<div align="left">
-  <a href="https://github.com/Kishore0122/Skillsync" >
-    <img src="https://img.shields.io/badge/📚%20Skill%20Sync-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
-  </a>
-  <a href="https://github.com/Kishore0122/library">
-    <img src="https://img.shields.io/badge/⚡%20MERN%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
-  </a>
-  <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
-    <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
-  </a>
-  <br><br>
-  <p>A modern full-stack Skill sharing system system built with React, Node.js, and MongoDB. Features include user authentication, Project colabration, Live Chatting, and Challanges posting.</p>
-  <!-- Add more featured projects here as you create them -->
-</div>
+    techStack: {
+        frontend: ["React.js", "JavaScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB", "MySQL"],
+        languages: ["Java", "Python", "C++"]
+    },
 
-<div align="left">
-  <a href="https://github.com/Kishore0122/library" >
-    <img src="https://img.shields.io/badge/📚%20Library%20Management%20System-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
-  </a>
-  <a href="https://github.com/Kishore0122/library">
-    <img src="https://img.shields.io/badge/⚡%20MERN%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
-  </a>
-  <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
-    <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
-  </a>
-  <br><br>
-  <p>A modern full-stack library management system built with React, Node.js, and MongoDB. Features include user authentication, book management, borrowing system, and admin dashboard.</p>
-  <!-- Add more featured projects here as you create them -->
-</div>
+    funFact: "I enjoy solving problems myself before using AI ☕"
+};
+```
 
-###
-<div align="left">
-  <a href="https://github.com/Kishore0122/SmartKisan" >
-    <img src="https://img.shields.io/badge/📚%20Smart%20Kisan%20-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=black" />
-  </a>
-  <a href="https://github.com/Kishore0122/SmartKisan">
-    <img src="https://img.shields.io/badge/⚡%20MERN%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=white" />
-  </a>
-  <a href="https://github.com/Kishore0122/SmartKisan" target="_blank">
-    <img src="https://img.shields.io/badge/🗄️%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=white" />
-  </a>
-  <br><br>
-  <p>A modern full-stack Smartkisan Website With AI INtegration Voice comand Feature built with React, Node.js, and MongoDB. Features include user authentication, live prize tracking, crop disease diagnose, text assistant ,voice assistant ,government schems seerch ,document saving.</p>
-  <!-- Add more featured projects here as you create them -->
-</div>
-
-<div align="left">
-  <a href="https://github.com/Kishore0122/library" >
-   <a href="https://github.com/Kishore0122/ai-agent" target="_blank">
-    <img src="https://img.shields.io/badge/🤖%20Personal%20AI%20Agent-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=white" />
-  </a>
-  </a>
-  <a href="https://github.com/Kishore0122/library">
-    <img src="https://img.shields.io/badge/⚡%20Python%20-339933?style=for-the-badge&logo=python&logoColor=white&labelColor=339933&color=white" />
-  </a>
-  <a href="https://github.com/Kishore0122/kishore-s-librery-" target="_blank">
-    <img src="https://img.shields.io/badge/%20LLM-47A248?style=for-the-badge&logo=python&logoColor=white&labelColor=47A248&color=white" />
-  </a>
-  <br><br>
-  <p>A modern Ai agent which can access your system and intracts with you Features include voice assistant,text assistant,file open,file serch,file delet,code writing in 10 languages,problem solving.</p>
-  <!-- Add more featured projects here as you create them -->
-</div>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-stats-alpha.vercel.app/api?username=Kishore0122&cc=282a36&tc=edede7&ic=ff6e96&bc=dddbdb" alt="Kishore's Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishore0122&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://streak-stats.demolab.com?user=Kishore0122&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
-    </a>
-  </div>
-  <br>
-  <br>
-  <br>
-</p>
 
-<hr>
+- 🚀 Building **AI-powered Full Stack Applications**
+- 🌱 Exploring **Advanced MERN Stack & System Design**
+- 🤝 Open to collaborating on **innovative web projects**
+- 💬 Ask me about **React, Node.js, MongoDB & DSA**
+- ⚡ Passionate about creating impactful real-world solutions
 
-###
+---
 
-<h2 align="center">🏆 Trophies 🏆</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kishore0122&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
-###
-
-<h2 align="center">📊 Contribution Graph</h2>
-
-###
+# 🚀 Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore0122&theme=dracula&hide_border=false" />
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="60"/><br><br>
+<b>React.js</b><br>
+<sub>Frontend UI</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br><br>
+<b>Node.js</b><br>
+<sub>Backend Runtime</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="60"/><br><br>
+<b>Express.js</b><br>
+<sub>REST APIs</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br><br>
+<b>MongoDB</b><br>
+<sub>NoSQL Database</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br><br>
+<b>MySQL</b><br>
+<sub>Relational DB</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br><br>
+<b>Python</b><br>
+<sub>AI & Automation</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="60"/><br><br>
+<b>Java</b><br>
+<sub>DSA & OOP</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br><br>
+<b>Tailwind CSS</b><br>
+<sub>Modern Styling</sub>
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,c,cpp,vscode,postman,firebase" />
+
 </div>
 
-###
+---
 
-<h2 align="center">⚡ My Contribution ⚡</h2>
-
-###
+# 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github.com/Kishore0122/Kishore0122/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+
+<a href="https://github.com/Kishore0122">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/panuganti-bala-kishore-0424b5325/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kishore.is-a.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:kishorepanuganti278@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<h2 align="center">🎯 Current Goals</h2>
-
-###
+# 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Goal-Master%20Full%20Stack%20Development-blue?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Goal-Complete%20DSA%20Course-green?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Goal-Build%20More%20Projects-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Goal-Contribute%20to%20Open%20Source-purple?style=for-the-badge&logo=opensource" />
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h2 align="center">🚀 SkillSync</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Realtime-Chat-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collaboration-Platform-orange?style=for-the-badge"/>
+
 </div>
 
-###
-<h2 align="center">📈 Development Analytics</h2>
+### ✨ Overview
 
+A developer collaboration platform where users can connect, build projects together, participate in coding challenges, and communicate in real time.
 
-<h4 align="center">
-  <a href="https://github.com/Kishore0122?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+### 🔥 Key Features
+
+✔️ Secure Authentication & Authorization  
+✔️ Real-Time Chat System  
+✔️ Team Collaboration Workspace  
+✔️ Coding Challenge Posting  
+✔️ Fully Responsive UI  
+
+### 🛠️ Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io`
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+<a href="https://github.com/Kishore0122/Skillsync">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
+</td>
+
+<td width="50%">
+
+<h2 align="center">🌾 Smart Kisan AI</h2>
 
 <div align="center">
-  <sub>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on any projects. 🚀</sub>
-</div> 
+
+<img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agriculture-Tech-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FullStack-Platform-blue?style=for-the-badge"/>
+
+</div>
+
+### ✨ Overview
+
+An AI-powered smart agriculture platform helping farmers with crop monitoring, voice assistance, and live market insights.
+
+### 🔥 Key Features
+
+✔️ AI Crop Disease Detection  
+✔️ Voice-Based Assistance  
+✔️ Market Price Tracking  
+✔️ Government Scheme Finder  
+✔️ Multi-language Support  
+
+### 🛠️ Tech Stack
+
+`React.js` `Node.js` `MongoDB` `Gemini AI`
+
+<div align="center">
+
+<a href="https://github.com/Kishore0122/SmartKisan">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h2 align="center">📚 Library Management System</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MERN-Project-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Admin-Dashboard-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication-success?style=for-the-badge"/>
+
+</div>
+
+### ✨ Overview
+
+A modern library management solution for handling books, borrowing workflows, and user management.
+
+### 🔥 Key Features
+
+✔️ Book Inventory Management  
+✔️ Borrow & Return Tracking  
+✔️ Secure Authentication  
+✔️ Admin Dashboard  
+✔️ Responsive Design  
+
+### 🛠️ Tech Stack
+
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+<div align="center">
+
+<a href="https://github.com/Kishore0122/library">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<h2 align="center">🤖 Personal AI Agent</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-Assistant-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Voice-Control-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge"/>
+
+</div>
+
+### ✨ Overview
+
+A customizable AI assistant inspired by JARVIS capable of voice interaction, automation, and intelligent task execution.
+
+### 🔥 Key Features
+
+✔️ Voice Command Support  
+✔️ AI Code Generation  
+✔️ File Automation  
+✔️ Local LLM Integration  
+✔️ Multi-language Communication  
+
+### 🛠️ Tech Stack
+
+`Python` `Whisper AI` `LLMs`
+
+<div align="center">
+
+<a href="https://github.com/Kishore0122/ai-agent">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kishore0122&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore0122&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Kishore0122&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kishore0122&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore0122&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/Kishore0122/Kishore0122/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FullStack-Mastery-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Preparation-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSource-Contributions-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Projects-purple?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📌 Development Focus
+
+```yaml
+Frontend:
+  - React.js
+  - Tailwind CSS
+  - JavaScript
+
+Backend:
+  - Node.js
+  - Express.js
+
+Database:
+  - MongoDB
+  - MySQL
+
+AI & Tools:
+  - Gemini API
+  - AI Automation
+  - Local LLMs
+
+Currently Learning:
+  - DSA
+  - Advanced React
+  - System Design
+```
+
+---
+
+<div align="center">
+
+### 💡 "Code • Build • Learn • Repeat"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
