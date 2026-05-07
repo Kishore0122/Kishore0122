@@ -304,7 +304,7 @@ A modern library management solution for handling books, borrowing workflows, an
 
 <div align="center">
 
-<a href="https://github.com/Kishore0122/library">
+<a href="https://github.com/Kishore0122/kishore-s-librery-">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -342,7 +342,7 @@ A customizable AI assistant inspired by JARVIS capable of voice interaction, aut
 
 <div align="center">
 
-<a href="https://github.com/Kishore0122/ai-agent">
+<a href="https://github.com/Kishore0122/jarvisAI">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
