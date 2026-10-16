@@ -24,7 +24,7 @@
 
 ```js
 const kishore = {
-    education: "BSc Computer Science @ Saveetha School of Engineering",
+    education: "B.E Computer Science @ Saveetha School of Engineering",
 
     currentFocus: [
         "Full Stack Development",
